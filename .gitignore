@@ -1,0 +1,12 @@
+# Ignorar entornos virtuales (¡Súper importante!)
+venv2/
+venv/
+__pycache__/
+
+# Ignorar las carpetas de datos masivos de cosmología
+Planck/
+Supernovas/
+
+# Ignorar archivos de cadenas individuales muy pesados
+*.gz
+*.txt
