@@ -1,0 +1,6 @@
+[run]
+source = tensiometer
+parallel = False
+
+[report]
+show_missing = True
